@@ -1,0 +1,40 @@
+h1 {
+    padding: 50px;
+    text-align: center;
+    font-style: oblique;
+
+}
+
+h2 {
+    padding: 50px;
+    text-align:left;
+    font-size: medium;
+    padding-left: 100px;
+
+}
+
+.parag1 {
+    text-align: center;
+    padding-left: 275px;
+    padding-right: 275px;
+    font-size: 20px;
+    
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    width: max-content;
+    background-color: black;
+    margin: 0;
+  }
+  
+.brandlogo {
+    align-items: center;
+    margin-right: 10px;
+    height: 150px;
+    width: 150px;
+  }
+

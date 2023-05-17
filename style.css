@@ -1,0 +1,32 @@
+h1 {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+
+}
+
+header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: #f2f2f2;
+    padding: 10px 0;
+    z-index: 999;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+
+}
+
+body {
+    padding-top: 150px;
+
+}
+
+.btn {
+    background-color: black;
+}
+
+body {
+    background-color: rgb(204, 199, 199);
+}
